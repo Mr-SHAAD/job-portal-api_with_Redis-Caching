@@ -1,4 +1,4 @@
-# 🏢 Job Portal REST API
+<img width="1039" height="696" alt="Screenshot 2026-05-07 at 6 29 14 AM" src="https://github.com/user-attachments/assets/b378672d-564b-4e2f-b332-7396bddd4b76" /># 🏢 Job Portal REST API
 
 A production-ready **Job Portal Backend API** built with **Django REST Framework**, **PostgreSQL**, and **Redis Caching** — featuring complete job posting, application tracking, and intelligent caching for high-performance responses.
 
@@ -263,13 +263,17 @@ GET /api/jobs/  # source: "cache" ← Redis working!
 ## 📸 API Screenshots
 
 ### Register API
-![Register](ADD_SCREENSHOT_LINK_HERE)
+<img width="1039" height="696" alt="Screenshot 2026-05-07 at 6 29 14 AM" src="https://github.com/user-attachments/assets/1dc46f3b-5f01-48e9-a43a-1279e635f337" />
 
 ### Jobs List — Database vs Cache
-![Cache Demo](ADD_SCREENSHOT_LINK_HERE)
+<img width="1030" height="698" alt="Screenshot 2026-05-07 at 6 33 36 AM" src="https://github.com/user-attachments/assets/8ed3a23d-c233-418a-9a0f-0d520fbe3e66" />
+
 
 ### Search API
-![Search](ADD_SCREENSHOT_LINK_HERE)
+<img width="1031" height="688" alt="Screenshot 2026-05-07 at 6 35 19 AM" src="https://github.com/user-attachments/assets/56288bbe-e963-445d-9cae-9ac4e360de18" />
+<img width="1027" height="702" alt="Screenshot 2026-05-07 at 6 34 47 AM" src="https://github.com/user-attachments/assets/acea7a49-c9ce-4d1d-87a5-966ec97cf907" />
+<img width="1030" height="707" alt="Screenshot 2026-05-07 at 6 35 04 AM" src="https://github.com/user-attachments/assets/2dfdfb33-5c10-4f8e-b434-6a34f63e2ce6" />
+
 
 ---
 
@@ -305,12 +309,6 @@ GET /api/jobs/  # source: "cache" ← Redis working!
 |---------|-------------|------|
 | [Blog REST API](https://github.com/Mr-SHAAD/blog-api) | JWT Auth, Posts, Comments, Likes | [Live](https://blog-api-production-b09d.up.railway.app) |
 | [E-Commerce API](https://github.com/Mr-SHAAD/ecommerce-api) | Cart, Orders, Reviews, Search | [Live](https://web-production-746fb.up.railway.app) |
-
----
-
-## 📄 License
-
-MIT License — feel free to use this project.
 
 ---
 

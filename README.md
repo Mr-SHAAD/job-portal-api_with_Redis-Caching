@@ -12,7 +12,7 @@ A production-ready **Job Portal Backend API** built with **Django REST Framework
 
 ## 🌐 Live Demo
 
-> **Base URL:** `YOUR_RENDER_LINK_HERE/api/`
+> **Base URL:** `https://job-portal-api-with-redis-caching.onrender.com/api/register/`
 
 ---
 
